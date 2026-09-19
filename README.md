@@ -106,3 +106,9 @@ These are small, independently operated web products used to test useful search 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e2a829,100:ff8c00&height=110&section=footer&fontSize=0" width="100%" alt="" />
 
 </div>
+
+## License
+
+[MIT](LICENSE).
+
+The MIT license covers the original profile text and source markup. Third-party logos, badges, images, and linked content retain their respective rights and licenses.
