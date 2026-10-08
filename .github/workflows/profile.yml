@@ -8,12 +8,12 @@ on:
     paths:
       - 'README.md'
       - 'assets/**'
-      - 'scripts/update_profile.py'
+      - 'scripts/**'
       - '.github/workflows/profile.yml'
   push:
     branches: [main]
     paths:
-      - 'scripts/update_profile.py'
+      - 'scripts/**'
       - '.github/workflows/profile.yml'
 
 permissions:
