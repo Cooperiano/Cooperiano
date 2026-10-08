@@ -36,14 +36,16 @@ jobs:
           from pathlib import Path
           import xml.etree.ElementTree as ET
           images = list(Path('assets').glob('*.svg'))
-          assert len(images) == 6, 'Expected six theme images'
+          expected = {f'{name}-{theme}.svg' for name in ('hero', 'inktyper', 'touchpad', 'academy', 'stack', 'activity', 'footer') for theme in ('light', 'dark')}
+          assert {image.name for image in images} == expected, 'Missing or unexpected theme images'
           for image in images:
               ET.parse(image)
           readme = Path('README.md').read_text(encoding='utf-8')
           references = re.findall(r'(?:src|srcset)="(\./[^"]+)"', readme)
-          assert len(references) == 6, 'Expected six README asset references'
+          assert len(references) == len(expected), 'Expected both themes for each artwork'
           assert all(Path(reference).is_file() for reference in references)
-          print('Validated six SVGs and all README image references.')
+          assert {Path(reference).name for reference in references} == expected
+          print('Validated all theme SVGs and README image references.')
           PY
       - name: Verify generation from saved public data
         run: python3 scripts/update_profile.py --snapshot assets/public-stats.json
