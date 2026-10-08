@@ -1,9 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="274" viewBox="0 0 860 274" role="img" aria-labelledby="title desc">
-<title id="title">Julian Cooper</title><desc id="desc">Useful ideas. Working software. AI applications, agents, and tools for everyday work. From idea to everyday use.</desc>
-<style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; } @media (prefers-reduced-motion: reduce) { .typed { clip-path: none; } .cursor { opacity: 0; } }</style>
-<rect x="0.5" y="0.5" width="859" height="273" rx="16" fill="#11161d" stroke="#303945"/>
-<defs><clipPath id="typing"><rect x="36" y="207" width="438" height="34"><animate attributeName="width" values="0;438;438" keyTimes="0;0.4;1" dur="8s" repeatCount="indefinite"/></rect></clipPath></defs>
-<path d="M617 25 Q824 61 849 243 M569 31 Q777 58 838 255" fill="none" stroke="#edbd63" stroke-opacity="0.14"/>
-<path d="M575 80 L733 68 L795 169 L665 216 Z M733 68 L665 216 M575 80 L795 169" fill="none" stroke="#303945"/>
-<circle cx="733" cy="68" r="8" fill="#edbd63"/><circle cx="795" cy="169" r="5" fill="#edbd63" opacity="0.6"/><circle cx="665" cy="216" r="6" fill="#edbd63" opacity="0.45"/><circle cx="575" cy="80" r="4" fill="#edbd63" opacity="0.4"/>
-<rect x="36" y="34" width="28" height="3" rx="1.5" fill="#edbd63"/><text x="74" y="41" font-size="11" fill="#aab4c2" font-weight="600" letter-spacing="1.8">JULIAN COOPER / LEDGENDARYANIMAL</text><text x="34" y="109" font-size="48" fill="#f2eee5" font-weight="650" >Useful ideas.</text><text x="34" y="164" font-size="48" fill="#f2eee5" font-weight="650" >Working software.</text><text x="36" y="199" font-size="17" fill="#aab4c2" font-weight="400" >AI applications, agents, and tools for everyday work.</text><g class="typed" clip-path="url(#typing)"><text x="36" y="235" font-size="20" fill="#edbd63" font-weight="500" >From idea to everyday use.</text></g><rect class="cursor" x="292" y="218" width="2" height="20" fill="#edbd63"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="346" viewBox="0 0 860 346" role="img" aria-labelledby="title desc">
+<title id="title">Julian Cooper / Ledgendaryanimal</title><desc id="desc">Julian Cooper. AI agents, desktop tools, and full-stack software. From prototype to shipped product. Animated neon wireframe artwork.</desc>
+<style>text { font-family: 'Segoe UI', Arial, sans-serif; } .mono { font-family: Consolas, 'Liberation Mono', monospace; } .display { font-family: 'Arial Black', 'Segoe UI', Arial, sans-serif; } @media (prefers-reduced-motion: reduce) { .typed { clip-path: none; } .motion,.cursor { display: none; } }</style>
+<rect x="0.5" y="0.5" width="859" height="345" rx="10" fill="#090d18" stroke="#273659"/>
+<defs>
+<radialGradient id="aura"><stop stop-color="#5b34bd" stop-opacity="0.42"/><stop offset="1" stop-color="#090d18" stop-opacity="0"/></radialGradient>
+<linearGradient id="name" x2="1" y2="0"><stop stop-color="#ffffff"/><stop offset="0.7" stop-color="#c6faff"/><stop offset="1" stop-color="#45e8ff"/></linearGradient>
+<linearGradient id="beam"><stop stop-color="#45e8ff" stop-opacity="0"/><stop offset="0.5" stop-color="#45e8ff" stop-opacity="0.3"/><stop offset="1" stop-color="#ad82ff" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0 H0 V32" fill="none" stroke="#93b9ff" stroke-opacity="0.08"/></pattern>
+<clipPath id="frame"><rect width="860" height="346" rx="10"/></clipPath>
+<clipPath id="typing"><rect x="60" y="235" width="390" height="26"><animate attributeName="width" values="0;390;390" keyTimes="0;0.38;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="860" height="346" fill="url(#grid)"/>
+<ellipse cx="682" cy="154" rx="285" ry="242" fill="url(#aura)"/>
+<path d="M0 314 L238 314 L270 346 M530 346 L570 306 L860 306" stroke="#273659" fill="none"/>
+<path d="M1 63 V15 Q1 1 15 1 H186 M674 345 H845 Q859 345 859 331 V276" fill="none" stroke="#45e8ff" stroke-opacity="0.65"/>
+<path d="M18 322 H118 M24 328 H77" stroke="#ad82ff" stroke-opacity="0.5"/>
+<g transform="translate(686 153)">
+<circle r="100" fill="#0c1223" fill-opacity="0.7" stroke="#334d76"/>
+<circle r="77" fill="none" stroke="#45e8ff" stroke-opacity="0.4"/>
+<ellipse rx="77" ry="25" fill="none" stroke="#45e8ff" stroke-opacity="0.5" transform="rotate(35)"/>
+<ellipse rx="77" ry="25" fill="none" stroke="#ad82ff" stroke-opacity="0.5" transform="rotate(-35)"/>
+<path d="M-55 -55 L55 55 M-55 55 L55 -55" stroke="#334d76"/>
+<g class="motion"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="22s" repeatCount="indefinite"/>
+<circle r="112" fill="none" stroke="#45e8ff" stroke-width="2" stroke-dasharray="92 37 15 84"/><circle cx="112" r="4" fill="#45e8ff"/>
+</g>
+<g class="motion"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="30s" repeatCount="indefinite"/>
+<circle r="122" fill="none" stroke="#ad82ff" stroke-opacity="0.65" stroke-dasharray="35 26 70 80"/>
+</g>
+<path d="M-25 -12 L-40 0 L-25 12 M25 -12 L40 0 L25 12 M9 -25 L-9 25" fill="none" stroke="#45e8ff" stroke-width="3" stroke-linecap="round"/>
+</g>
+<path d="M566 35 V269 M576 280 H808" fill="none" stroke="#45e8ff" stroke-opacity="0.18"/>
+<rect class="motion" y="30" width="860" height="2" fill="url(#beam)"><animateTransform attributeName="transform" type="translate" values="0 0;0 275;0 0" dur="14s" repeatCount="indefinite"/></rect>
+</g><text x="34" y="43" font-size="12" fill="#45e8ff" font-weight="600" class="mono" letter-spacing="2.1">// LEDGENDARYANIMAL</text><text x="30" y="117" font-size="66" fill="#eff6ff" font-weight="900" class="display" letter-spacing="2">JULIAN</text><text x="30" y="184" font-size="66" font-weight="900" class="display" letter-spacing="2" fill="url(#name)">COOPER.</text><rect x="34" y="218" width="493" height="63" rx="5" fill="#0c1527" stroke="#273f60"/><text x="47" y="256" font-size="17" fill="#45e8ff" font-weight="600" class="mono">&gt;</text><g class="typed" clip-path="url(#typing)"><text x="66" y="256" font-size="15" fill="#eff6ff" font-weight="400" class="mono">From prototype to shipped product.</text></g><rect class="cursor" x="374" y="243" width="8" height="17" fill="#45e8ff"><animate attributeName="opacity" values="1;0;1" dur="1.4s" repeatCount="indefinite"/></rect><text x="36" y="309" font-size="12" fill="#a0b4d1" font-weight="500" class="mono" letter-spacing="0.4">AI AGENTS   /   DESKTOP TOOLS   /   FULL STACK</text><text x="687" y="302" font-size="11" fill="#ad82ff" font-weight="600" class="mono" text-anchor="middle" letter-spacing="1.5">BUILD. SHIP. ITERATE.</text></svg>

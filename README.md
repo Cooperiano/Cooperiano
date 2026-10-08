@@ -2,16 +2,16 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="Julian Cooper — AI applications, agents, and useful software. From idea to everyday use.">
+  <img src="./assets/hero-light.svg" width="100%" alt="Julian Cooper / Ledgendaryanimal — AI agents, desktop tools, and full-stack software. Animated neon wireframe banner.">
 </picture>
 
 **AI applications & agents · Desktop tools · Full-stack delivery**
 
-[Portfolio](https://ledgendaryanimal.top/) &nbsp; / &nbsp; [Work with me](https://www.upwork.com/freelancers/~010ed7d7ca20321c68) &nbsp; / &nbsp; [Security research](https://hackerone.com/ledgendaryanimal)
+[**Portfolio ↗**](https://ledgendaryanimal.top/) &nbsp; / &nbsp; [**Work with me ↗**](https://www.upwork.com/freelancers/~010ed7d7ca20321c68) &nbsp; / &nbsp; [**Security research ↗**](https://hackerone.com/ledgendaryanimal)
 
 </div>
 
-### Hello, I'm Julian.
+### From idea to everyday use.
 
 I build AI workflows, desktop software, and web products that fit into everyday work. My focus is taking useful ideas from prototype through deployment and ongoing operations.
 
@@ -19,7 +19,7 @@ I build AI workflows, desktop software, and web products that fit into everyday 
 - **Desktop & developer tools** — voice input, touchpad interactions, and tools that stay close to your workflow.
 - **Product delivery** — interfaces, backend services, deployment, and maintenance.
 
-### Selected products
+### 01 / Projects & products
 
 | Product | Built for | Explore |
 | :--- | :--- | :--- |
@@ -30,7 +30,7 @@ I build AI workflows, desktop software, and web products that fit into everyday 
 | **Soyetty** | Commercial network services | [Website](https://soyetty.com/) |
 | **Julian Rides** | An independent English cycling journal: stories, gear, data, and guides | [Read](https://julianrides.com/) |
 
-### Agents, infrastructure & experiments
+### 02 / Agents & experiments
 
 - **[AI Server Operator](https://github.com/Cooperiano/ai-server-operator)** — Linux operations with a diagnose, approve, fix, and verify workflow.
 - **[Media Generation Pipeline](https://github.com/Cooperiano/media-generation-pipeline)** — Natural-language requests translated into ComfyUI workflows.
@@ -38,14 +38,14 @@ I build AI workflows, desktop software, and web products that fit into everyday 
 
 [Browse my public repositories →](https://github.com/Cooperiano?tab=repositories)
 
-### Tools I work with
+### 03 / Toolkit
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
   <img src="./assets/stack-light.svg" width="100%" alt="Python, TypeScript, Go, Swift, FastAPI, Node.js, PostgreSQL, Docker, PyTorch, Cloudflare, VS Code, and LLM integrations.">
 </picture>
 
-### On GitHub
+### 04 / Public signal
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
@@ -57,7 +57,7 @@ I build AI workflows, desktop software, and web products that fit into everyday 
 <details>
 <summary>More about this profile</summary>
 
-The banner, technology badges, and GitHub cards are served from this repository. The banner includes a subtle typing animation and remains readable without animation. GitHub Actions refreshes the cards daily using public GitHub data. No private repository data or personal access token is needed.
+The banner, technology badges, and GitHub cards are served from this repository. The banner includes rotating wireframe rings, a scanning light, and a terminal-style text animation. A complete static image remains readable when motion is reduced or unavailable. GitHub Actions refreshes the cards daily using public GitHub data. No private repository data or personal access token is needed.
 
 The optional counter below is supplied by Komarev and measures image requests rather than unique visitors. It may be affected by caching.
 
@@ -71,7 +71,7 @@ The optional counter below is supplied by Komarev and measures image requests ra
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Cooperiano&label=Profile+views&color=b88628&style=flat-square" alt="Profile view counter (external service)" />
+<img src="https://komarev.com/ghpvc/?username=Cooperiano&label=Profile+views&color=007c98&style=flat-square" alt="Profile view counter (external service)" />
 
 <sub>Julian Cooper / Ledgendaryanimal · Profile text, code, and original artwork: [MIT](LICENSE). Linked projects retain their own licenses.</sub>
 
