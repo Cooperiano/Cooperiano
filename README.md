@@ -1,75 +1,78 @@
-# Julian Cooper
+<div align="center">
 
-**AI applications & agent engineering · Desktop tools · Full-stack delivery**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img src="./assets/hero-light.svg" width="100%" alt="Julian Cooper — AI applications, agents, and useful software. From idea to everyday use.">
+</picture>
 
-I'm an independent developer building AI workflows, useful desktop software, and web products. I take projects from prototype through deployment and ongoing operations, with a focus on practical automation and reliable delivery.
+**AI applications & agents · Desktop tools · Full-stack delivery**
 
-[Portfolio](https://ledgendaryanimal.top/) · [Work with me on Upwork](https://www.upwork.com/freelancers/~010ed7d7ca20321c68) · [Security research](https://hackerone.com/ledgendaryanimal)
+[Portfolio](https://ledgendaryanimal.top/) &nbsp; / &nbsp; [Work with me](https://www.upwork.com/freelancers/~010ed7d7ca20321c68) &nbsp; / &nbsp; [Security research](https://hackerone.com/ledgendaryanimal)
 
-## What I work on
+</div>
 
-- **AI applications and agents:** LLM integrations, workflow orchestration, model routing, and automation with human review.
-- **Desktop and developer tools:** Voice input, touchpad interactions, and tools that fit into everyday development.
-- **Full-stack delivery:** Product interfaces, backend services, deployment, and ongoing maintenance.
+### Hello, I'm Julian.
 
-## Selected products and tools
+I build AI workflows, desktop software, and web products that fit into everyday work. My focus is taking useful ideas from prototype through deployment and ongoing operations.
 
-### [InkTyper](https://inktyper.ledgendaryanimal.top/)
+- **AI engineering** — LLM integrations, agent workflows, model routing, and automation with human review.
+- **Desktop & developer tools** — voice input, touchpad interactions, and tools that stay close to your workflow.
+- **Product delivery** — interfaces, backend services, deployment, and maintenance.
 
-Desktop voice-to-text with optional AI editing, global shortcuts, and tray controls.
+### Selected products
 
-[Product website](https://inktyper.ledgendaryanimal.top/) · [Official downloads and release notes](https://github.com/Cooperiano/InkTyper-Releases)
+| Product | Built for | Explore |
+| :--- | :--- | :--- |
+| **InkTyper** | Voice-to-text, optional AI editing, global shortcuts, and tray controls | [Website](https://inktyper.ledgendaryanimal.top/) · [Downloads](https://github.com/Cooperiano/InkTyper-Releases) |
+| **Mac-like Touchpad** | Continuous three-finger dragging and four-finger workspace gestures on Ubuntu; reversible Windows touchpad configuration | [Source & setup](https://github.com/Cooperiano/mac-like-touchpad-ubuntu) |
+| **Mihomo Switch** | Keyboard-driven Mihomo/Clash proxy control inside VS Code | [Source & docs](https://github.com/Cooperiano/mihomo-switch) |
+| **Ledgendaryanimal Academy** | Video research, organized notes, subtitles, and timelines brought back to the original viewing page | [Explore](https://academy.ledgendaryanimal.top/) |
+| **Soyetty** | Commercial network services | [Website](https://soyetty.com/) |
+| **Julian Rides** | An independent English cycling journal: stories, gear, data, and guides | [Read](https://julianrides.com/) |
 
-### [Mac-like Touchpad](https://github.com/Cooperiano/mac-like-touchpad-ubuntu)
+### Agents, infrastructure & experiments
 
-Continuous three-finger dragging and four-finger workspace gestures for Ubuntu GNOME Wayland, plus a reversible Windows Precision Touchpad configuration.
-
-[Source and setup guide](https://github.com/Cooperiano/mac-like-touchpad-ubuntu)
-
-### [Mihomo Switch](https://github.com/Cooperiano/mihomo-switch)
-
-A keyboard-driven Mihomo/Clash proxy controller inside VS Code.
-
-[Source and documentation](https://github.com/Cooperiano/mihomo-switch)
-
-### [Ledgendaryanimal Academy](https://academy.ledgendaryanimal.top/)
-
-A video research archive and viewing companion that brings organized notes, subtitles, and timelines back to the original video page.
-
-[Explore Academy](https://academy.ledgendaryanimal.top/)
-
-### [Soyetty](https://soyetty.com/)
-
-A commercial network services platform.
-
-[Product website](https://soyetty.com/)
-
-### [Julian Rides](https://julianrides.com/)
-
-An independent English-language cycling publication covering stories, gear, data, guides, racing, and news.
-
-[Read the journal](https://julianrides.com/)
-
-## Selected AI engineering work
-
-- **[AI Server Operator](https://github.com/Cooperiano/ai-server-operator)** — Linux server operations with a diagnose, approve, fix, and verify workflow.
-- **[Media Generation Pipeline](https://github.com/Cooperiano/media-generation-pipeline)** — An agent layer that translates natural-language requests into ComfyUI workflows.
+- **[AI Server Operator](https://github.com/Cooperiano/ai-server-operator)** — Linux operations with a diagnose, approve, fix, and verify workflow.
+- **[Media Generation Pipeline](https://github.com/Cooperiano/media-generation-pipeline)** — Natural-language requests translated into ComfyUI workflows.
 - **[AgentWire](https://github.com/Cooperiano/agentwire)** — A publishing and discussion network for people and AI agents.
 
-[Browse more repositories](https://github.com/Cooperiano?tab=repositories)
+[Browse my public repositories →](https://github.com/Cooperiano?tab=repositories)
 
-## Technologies
+### Tools I work with
 
-- **Languages:** Python · TypeScript · Go · Swift
-- **Applications:** FastAPI · Node.js · PostgreSQL · VS Code extensions
-- **AI and infrastructure:** LLM integrations · PyTorch · Docker · Cloudflare
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img src="./assets/stack-light.svg" width="100%" alt="Python, TypeScript, Go, Swift, FastAPI, Node.js, PostgreSQL, Docker, PyTorch, Cloudflare, VS Code, and LLM integrations.">
+</picture>
 
-## Work with me
+### On GitHub
 
-Open to freelance and product engineering work involving AI applications, desktop tools, and full-stack delivery.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
+  <img src="./assets/activity-light.svg" width="100%" alt="Public GitHub repository, star, and follower totals, plus the most-used languages by code bytes in public non-fork repositories.">
+</picture>
 
-[Upwork](https://www.upwork.com/freelancers/~010ed7d7ca20321c68) · [Personal website](https://ledgendaryanimal.top/) · [HackerOne](https://hackerone.com/ledgendaryanimal)
+<sub>Public repositories only. Language share measures code volume, not skill. Cards refresh daily; their last successful update is shown above.</sub>
+
+<details>
+<summary>More about this profile</summary>
+
+The banner, technology badges, and GitHub cards are served from this repository. The banner includes a subtle typing animation and remains readable without animation. GitHub Actions refreshes the cards daily using public GitHub data. No private repository data or personal access token is needed.
+
+The optional counter below is supplied by Komarev and measures image requests rather than unique visitors. It may be affected by caching.
+
+</details>
 
 ---
 
-<sub>Public identity: Julian Cooper / Ledgendaryanimal. Original profile text and markup: [MIT](LICENSE). Linked projects and third-party assets retain their own licenses.</sub>
+**Have something useful in mind?** I'm open to freelance and product engineering work involving AI applications, desktop tools, and full-stack delivery.
+
+[Work with me on Upwork](https://www.upwork.com/freelancers/~010ed7d7ca20321c68) · [Personal website](https://ledgendaryanimal.top/) · [HackerOne](https://hackerone.com/ledgendaryanimal)
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Cooperiano&label=Profile+views&color=b88628&style=flat-square" alt="Profile view counter (external service)" />
+
+<sub>Julian Cooper / Ledgendaryanimal · Profile text, code, and original artwork: [MIT](LICENSE). Linked projects retain their own licenses.</sub>
+
+</div>

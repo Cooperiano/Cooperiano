@@ -1,0 +1,30 @@
+{
+  "owner": "Cooperiano",
+  "updated": "2026-10-08 10:38 UTC",
+  "repositories": 31,
+  "stars": 26,
+  "followers": 2,
+  "languages": {
+    "Python": 2044535,
+    "Jupyter Notebook": 1139508,
+    "TypeScript": 546604,
+    "Swift": 422733,
+    "Rust": 334328,
+    "Kotlin": 325277,
+    "JavaScript": 183093,
+    "HTML": 130785,
+    "C++": 106218,
+    "Slint": 98014,
+    "Shell": 43610,
+    "CSS": 41310,
+    "GLSL": 35296,
+    "Go": 25806,
+    "PowerShell": 9466,
+    "Makefile": 5708,
+    "CMake": 4464,
+    "Solidity": 4196,
+    "PLpgSQL": 2095,
+    "Nix": 1906,
+    "Dockerfile": 1429
+  }
+}
