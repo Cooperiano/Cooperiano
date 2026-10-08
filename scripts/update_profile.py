@@ -14,7 +14,7 @@ from urllib.request import Request, urlopen
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / "assets"
 OWNER = "Cooperiano"
-from profile_art import THEMES, hero, stack, activity
+from profile_art import THEMES, static_art, activity
 
 
 def api(path, cli=False):
@@ -64,7 +64,7 @@ def main():
     if any(value < 0 for value in data["languages"].values()):
         raise ValueError("Invalid language totals")
     # Fetch everything before replacing existing cards; failed fetches preserve the last good set.
-    files = {f"{name}-{theme}.svg": render(theme) for name, render in [("hero", hero), ("stack", stack)] for theme in THEMES}
+    files = static_art()
     files.update({f"activity-{theme}.svg": activity(data, theme) for theme in THEMES})
     ASSETS.mkdir(exist_ok=True)
     for name, value in files.items():
