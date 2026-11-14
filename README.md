@@ -6,7 +6,8 @@
 <p align="center">
   <a href="https://ledgendaryanimal.top/"><strong>PORTFOLIO ↗</strong></a> &nbsp; &nbsp; / &nbsp; &nbsp;
   <a href="https://www.upwork.com/freelancers/~010ed7d7ca20321c68"><strong>WORK WITH ME ↗</strong></a> &nbsp; &nbsp; / &nbsp; &nbsp;
-  <a href="https://hackerone.com/ledgendaryanimal"><strong>SECURITY RESEARCH ↗</strong></a>
+  <a href="https://hackerone.com/ledgendaryanimal"><strong>SECURITY RESEARCH ↗</strong></a> &nbsp; &nbsp; / &nbsp; &nbsp;
+  <a href="https://ledgendaryanimal.top/support/"><strong>BUY ME A COFFEE ↗</strong></a>
 </p>
 
 I’m **Julian Cooper**, also known as **Ledgendaryanimal**. I build AI workflows, desktop software, and web products that fit into everyday work—from the first useful prototype to deployment and ongoing operations.
@@ -72,6 +73,12 @@ Video research, notes, subtitles, and timelines brought back to the original vie
 </picture>
 
 <sub>Public repositories only. Language share measures code volume, not skill. Refreshed daily; the artwork shows the last successful update.</sub>
+
+<a href="https://ledgendaryanimal.top/support/">
+  <img src="https://ledgendaryanimal.top/support/assets/badge-en.svg" height="40" alt="Buy me a coffee — one-time, any amount, paid through Dodo Payments">
+</a>
+
+If something here saved you an afternoon, you can buy me a coffee. One-time, any amount, card or Apple Pay, handled by Dodo Payments as merchant of record — it goes into GPU time and the next build. <sub>[/support ↗](https://ledgendaryanimal.top/support/)</sub>
 
 <a href="https://www.upwork.com/freelancers/~010ed7d7ca20321c68">
 <picture>
